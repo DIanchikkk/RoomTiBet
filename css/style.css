@@ -121,9 +121,7 @@
   .title {
     color: var(--color-light); 
     margin-top: 300px; 
-    display: flex;
     text-align: left; 
-    justify-content: center;
     font-family:"NEXT ART", sans-serif;
     font-weight: 700;
     font-size: 50px;
@@ -131,6 +129,7 @@
     letter-spacing: 2%;
     text-transform: uppercase;
     padding: 15px;
+    margin-left:  130px;    
 }
 .form {
   display: flex;
